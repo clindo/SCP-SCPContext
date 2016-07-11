@@ -1,0 +1,3 @@
+Execute "run" on Unix, "run.bat" on Windows, or "run.command" on Mac OS X
+to compile ContextJ* and the demo program. If there was no error, you can
+then execute the example program by calling "java Demo".
